@@ -1,3 +1,35 @@
 * {
     font-family: Tahoma, Verdana, sans-serif;
 }
+
+
+img {
+    border-radius: 25px;
+    border-top: 20px solid rgb(240, 204, 210);
+    border-bottom: 20px solid rgb(240, 204, 210);
+}
+
+
+h1, h2, h3 {
+    color: rgb(92, 92, 92);
+    
+}
+
+.highlighted_headings {
+    background-color: rgb(240, 204, 210);
+}
+
+.instructions {
+    background-color: rgb(218, 218, 218);
+    padding: 20px;
+    border-radius: 25px;
+    border: 2px solid rgb(92, 92, 92);
+}
+
+.instructions h2 {
+    font-weight: 500;
+}
+
+li {
+    padding-bottom: 10px;
+}
