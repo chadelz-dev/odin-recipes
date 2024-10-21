@@ -8,5 +8,6 @@ A simple HTMLrecipes site to gain an understanding of:
   - paragraphs
   - images
   - links
+  - unordered and ordered lists
 
 - How to link to other pages within a project.

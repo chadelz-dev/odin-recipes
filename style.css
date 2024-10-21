@@ -1,0 +1,14 @@
+* {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+.highlighted_headings {
+    background-color: rgb(240, 204, 210);
+    color: rgb(92, 92, 92);
+}
+
+li {
+    padding-bottom: 10px;
+    font-size: 20px;
+    
+}
